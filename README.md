@@ -1,4 +1,4 @@
-# fuze‑dev‑portal
+# Dev Portal
 
 > **Static documentation hub (Docsify) + OpenAPI 3.1 specs**  
 > One repo to publish all public API references, SDK guides, and white‑paper docs for the FUZE.ac ecosystem.
